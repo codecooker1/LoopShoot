@@ -29,6 +29,8 @@ if (mouse_check_button(mb_left) && can_shoot == 0) {
     var _aim_dir = point_direction(x, y, mouse_x, mouse_y);
     h_spd -= lengthdir_x(recoil_force, _aim_dir);
     v_spd -= lengthdir_y(recoil_force, _aim_dir);
+	
+	screen_shake(2);
 }
 
 // Clamp magnitude 

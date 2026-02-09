@@ -11,3 +11,5 @@ v_spd = 0;
 fire_rate = 10;
 can_shoot = 0;
 recoil_force = 2;
+
+hp = 5;
