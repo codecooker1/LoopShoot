@@ -1,5 +1,5 @@
 # LoopShoot
-Game for Campfire X Overdrive
+Game made for Campfire X Overdrive in 12-hours
 
 Blast your way through an infinite, glitch-ridden arcade nightmare. In this high-octane top-down shooter, "Victory" is just a lie the system tells you before rebooting the simulation harder, faster, and deadlier.
 
