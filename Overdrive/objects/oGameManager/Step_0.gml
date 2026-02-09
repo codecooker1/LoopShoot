@@ -22,6 +22,11 @@ if (state == "GAME_OVER") {
     if (keyboard_check_pressed(vk_space)) {
 		state = "PLAYING";
 		global.score = 0;
+		global.difficulty = 1;
+		global.loop_count = 1;
+		kills_current = kills_def;
+		kills_needed = kills_needed_def;
+		timer = 0;
         room_restart();
     }
 }

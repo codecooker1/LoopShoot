@@ -12,8 +12,10 @@ global.high_score = ini_read_real("Scores", "HighScore", 0);
 ini_close();
 
 // Level Progress
-kills_current = 0;
-kills_needed = 20;
+kills_def = 0;
+kills_needed_def = 20;
+kills_current = kills_def;
+kills_needed = kills_needed_def;
 
 // State Machine
 state = "PLAYING";         // "PLAYING", "LEVEL_COMPLETE", "GAME_OVER"
