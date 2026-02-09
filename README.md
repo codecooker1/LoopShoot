@@ -10,3 +10,4 @@ Campfire Dhaka is a part of HackClub's satellite project Campfire.
 Sign up for Campfire Dhaka using my referral link: campfire.hack.club/167
 
 GitHub: https://github.com/codecooker1/LoopShoot/​​
+Itch.io Page: https://codecookermintz.itch.io/loopshoot
