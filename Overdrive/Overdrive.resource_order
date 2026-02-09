@@ -1,0 +1,20 @@
+{
+  "FolderOrderSettings":[
+    {"name":"Objects","order":3,"path":"folders/Objects.yy",},
+    {"name":"Rooms","order":4,"path":"folders/Rooms.yy",},
+    {"name":"Sprite","order":2,"path":"folders/Sprite.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"oBullet","order":3,"path":"objects/oBullet/oBullet.yy",},
+    {"name":"oCamera","order":6,"path":"objects/oCamera/oCamera.yy",},
+    {"name":"oEnemy","order":1,"path":"objects/oEnemy/oEnemy.yy",},
+    {"name":"oGameManager","order":7,"path":"objects/oGameManager/oGameManager.yy",},
+    {"name":"oSolid","order":4,"path":"objects/oSolid/oSolid.yy",},
+    {"name":"oSpawner","order":5,"path":"objects/oSpawner/oSpawner.yy",},
+    {"name":"oWall","order":2,"path":"objects/oWall/oWall.yy",},
+    {"name":"sBackground","order":4,"path":"sprites/sBackground/sBackground.yy",},
+    {"name":"sBullet","order":3,"path":"sprites/sBullet/sBullet.yy",},
+    {"name":"sEnemy","order":1,"path":"sprites/sEnemy/sEnemy.yy",},
+    {"name":"sWall","order":2,"path":"sprites/sWall/sWall.yy",},
+  ],
+}
